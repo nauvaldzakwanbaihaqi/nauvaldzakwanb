@@ -80,17 +80,17 @@ export const servicesData = [
 export const projects = [
   {
     id: 1,
-    name: "Mobile Accessories E-commerce",
+    name: "Sneakers E-commerce",
     description:
-      "An online store specializing in phone accessories including cases, chargers, cables, and power banks with MagSafe compatibility.",
+      "An online store specializing in Sneakers, Design inspired by Kicks on Figma.",
     href: "",
-    image: "assets/projects/mobile-accessories-store.jpg",
+    image: "assets/projects/Kicks Sneakers E-Commerce .png",
     bgImage: "assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Next.js" },
       { id: 3, name: "Node.js" },
-      { id: 4, name: "MongoDB" },
+      { id: 4, name: "Neon Database" },
       { id: 5, name: "Tailwind CSS" },
     ],
   },
@@ -156,17 +156,16 @@ export const projects = [
   },
   {
     id: 6,
-    name: "Digital Game Store",
+    name: "Workshop",
     description:
-      "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
+      "A dedicated website for a motorcycle workshop featuring service details, a showcase of custom builds, and a catalog of motorcycle parts and accessories.",
     href: "",
-    image: "assets/projects/game-store.jpg",
+    image: "assets/projects/21motoshop.png",
     bgImage: "assets/backgrounds/curtains.jpg",
     frameworks: [
-      { id: 1, name: "Svelte" },
+      { id: 1, name: "React" },
       { id: 2, name: "Node.js" },
-      { id: 3, name: "MongoDB" },
-      { id: 4, name: "Chakra UI" },
+      { id: 3, name: "Tailwind CSS" },
     ],
   },
 ];

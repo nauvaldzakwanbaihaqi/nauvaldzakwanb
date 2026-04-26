@@ -166,7 +166,7 @@ const Works = () => {
         {/* desktop Floating preview image */}
         <div
           ref={previewRef}
-          className="fixed left-0 top-0 z-50 overflow-hidden border-8 border-black pointer-events-none w-48 h-64 md:block hidden opacity-0"
+          className="fixed left-0 top-0 z-50 overflow-hidden border-8 border-black pointer-events-none w-80 h-48 md:block hidden opacity-0"
         >
           {currentIndex !== null && (
             <img
