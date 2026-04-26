@@ -158,7 +158,7 @@ const Works = () => {
               <img
                 src={project.image}
                 alt={`${project.name}-image`}
-                className="absolute bg-center px-14 rounded-xl w-32 h-32"
+                className="absolute bg-center rounded-xl w-32 h-32"
               />
             </div>
           </div>
@@ -166,8 +166,7 @@ const Works = () => {
         {/* desktop Floating preview image */}
         <div
           ref={previewRef}
-          className="fixed left-0 z-50 overflow-hidden border-8 border-black pointer-events-none w-48 h-64 md:block hidden opacity-0"
-          style={{ top: "auto" }}
+          className="fixed left-0 top-0 z-50 overflow-hidden border-8 border-black pointer-events-none w-48 h-64 md:block hidden opacity-0"
         >
           {currentIndex !== null && (
             <img

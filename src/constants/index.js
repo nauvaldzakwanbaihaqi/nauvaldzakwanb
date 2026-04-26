@@ -84,8 +84,8 @@ export const projects = [
     description:
       "An online store specializing in phone accessories including cases, chargers, cables, and power banks with MagSafe compatibility.",
     href: "",
-    image: "/assets/projects/mobile-accessories-store.jpg",
-    bgImage: "/assets/backgrounds/blanket.jpg",
+    image: "assets/projects/mobile-accessories-store.jpg",
+    bgImage: "assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Next.js" },
@@ -100,8 +100,8 @@ export const projects = [
     description:
       "An online store specializing in rare and decorative plants with a clean, user-friendly interface.",
     href: "",
-    image: "/assets/projects/plant-shop.jpg",
-    bgImage: "/assets/backgrounds/curtains.jpg",
+    image: "assets/projects/plant-shop.jpg",
+    bgImage: "assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Next.js" },
@@ -115,8 +115,8 @@ export const projects = [
     description:
       "An e-commerce platform for Apple products and accessories with deals and category filtering.",
     href: "",
-    image: "/assets/projects/apple-tech-store.jpg",
-    bgImage: "/assets/backgrounds/map.jpg",
+    image: "assets/projects/apple-tech-store.jpg",
+    bgImage: "assets/backgrounds/map.jpg",
     frameworks: [
       { id: 1, name: "Blazor" },
       { id: 2, name: "ASP.NET Core" },
@@ -130,8 +130,8 @@ export const projects = [
     description:
       "A multi-category online shop featuring electronics, home appliances, and gaming gear with special offers.",
     href: "",
-    image: "/assets/projects/electronics-store.jpg",
-    bgImage: "/assets/backgrounds/poster.jpg",
+    image: "assets/projects/electronics-store.jpg",
+    bgImage: "assets/backgrounds/poster.jpg",
     frameworks: [
       { id: 1, name: "Vue.js" },
       { id: 2, name: "Laravel" },
@@ -145,8 +145,8 @@ export const projects = [
     description:
       "A curated collection of designer home decor items, including furniture and artisan vases.",
     href: "",
-    image: "/assets/projects/home-decor-store.jpg",
-    bgImage: "/assets/backgrounds/table.jpg",
+    image: "assets/projects/home-decor-store.jpg",
+    bgImage: "assets/backgrounds/table.jpg",
     frameworks: [
       { id: 1, name: "Angular" },
       { id: 2, name: "Firebase" },
@@ -160,8 +160,8 @@ export const projects = [
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
     href: "",
-    image: "/assets/projects/game-store.jpg",
-    bgImage: "/assets/backgrounds/curtains.jpg",
+    image: "assets/projects/game-store.jpg",
+    bgImage: "assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "Svelte" },
       { id: 2, name: "Node.js" },
